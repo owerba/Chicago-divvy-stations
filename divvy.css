@@ -1,0 +1,40 @@
+.station {
+  border: solid 2px #CCC;
+  box-shadow: 4px 4px 4px #CCC;
+  padding: 12px;
+  flex-basis: 20%;
+}
+.station p {
+  margin: 0;
+}
+
+.station a, .station a:visited { 
+  text-decoration: none;
+  color: #444;
+}
+
+.station button {
+  font-size: 14px;
+  background-color: #090;
+  color: white;
+  border-radius: 12px;
+}
+#stations {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
+}
+
+header { 
+  margin-bottom: 2em;
+}
+header button {
+  font-size: 18px;
+  background-color: #009;
+  color: white;
+  padding: 12px;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.

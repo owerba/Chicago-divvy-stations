@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>HW 4</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="divvy.css">
+  <script src="divvy.js"></script>
+</head>
+
+<body class="container">
+
+  <nav>
+    <a href="index.html">Divvy Station Locator</a>
+    <ul>
+      <li><a href="https://gbfs.divvybikes.com/gbfs/en/station_information.json">Station Information</a></li>
+      <li><a href="https://gbfs.divvybikes.com/gbfs/en/station_status.json">Real-Time Status</a></li>
+    </ul>
+  </nav>
+
+  <main>
+  
+    <header>
+      <h1>Divvy Bike Stations</h1>
+
+      <button>Display All Stations</button>
+      <button>Nearest 5 stations with Real-Time Information</button>
+    </header>
+    
+    <div id="stations">
+      <div class="station">
+        <a href="https://google.com/maps?lat=42.0458556,lon=-87.7271111" target="_blank">
+          <p><b>Ellis Ave & 55th St</b></p>
+          <p>Capacity: <span>19</span> bikes</p>
+          <p>Availability: <span>?</span> bikes</p>
+          <p>Distance: <span>?</span> miles away</p>
+          <button>Add to Favorites</button>
+        </a>
+      </div>
+    </div>
+
+  </body>
+</html>
