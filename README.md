@@ -1,5 +1,25 @@
 # Chicago Divvy Stations Project
 
+Summary: Final project for Web Development (Spring 2024). Create an interactive web page that utilizes user location and real-time Chicago Divvy bike data to allow users to view station availability by nearest location. 
+
+File Overview:
+
+1. divvy.css: provides CSS for stations, favorites bar, and other important elements on the web page.
+2. divvy.html: provides HTML for content and structure of web page
+3. divvy.js: manages state and interactivity for the web page
+4. styles.css: second style sheet
+
+
+
+
+
+
+
+Assignment Criteria Below
+----------
+
+
+
 Total Points: 20
 
 Due: Wednesday May 15, 2:30pm
@@ -42,4 +62,11 @@ For requirements #1, #2, and #4, up to 5 points for correct functionality.
 For requirement #3:
 * Up to 3 pts for correct functionality
 * Up to 2 pts for appealing UI for the favorites list
+
+
+
+
+
+
+
 
