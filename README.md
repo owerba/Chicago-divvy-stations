@@ -1,4 +1,4 @@
-# Homework #4
+# Chicago Divvy Stations Project
 
 Total Points: 20
 
