@@ -4,7 +4,7 @@ Summary: Final project for Web Development (Spring 2024). Create an interactive 
 
 File Overview:
 
-1. divvy.css: provides CSS for stations, favorites bar, and other important elements on the web page.
+1. divvy.css: provides CSS for stations, favorites bar, and other important elements on the web page. This style was meant to match the assigned template image shown to us
 2. divvy.html: provides HTML for content and structure of web page
 3. divvy.js: manages state and interactivity for the web page
 4. styles.css: second style sheet
